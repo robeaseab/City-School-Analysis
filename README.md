@@ -1,9 +1,10 @@
 
 ## City School Analysis using Pandas
 
-![Education](Images/education.jpg)
+![](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ch2L8DHlCqt89oUhxG2yLgHaFj%26pid%3DApi&f=1)
 
-For this project I analyzed district-wide standardized test results. Using matha and reading scores, as well as various information on each school, I aggregated the data to and showcase obvious trends in school performance.
+For this project I analyzed district-wide standardized test results. Using matha and reading scores, as well as various information on each school, I aggregated the data to and showcase obvious trends in school performance.  I used the pandas library and Jupyter Notebook.
+Pleas see Jupyter Notebook with the viewable Data Frames.
 
 ### District Summary
 
@@ -73,5 +74,4 @@ For this project I analyzed district-wide standardized test results. Using matha
 ### Scores by School Type
 
 * Repeated the above breakdown, but this time group schools based on school type (Charter vs. District).
-* Used the pandas library and Jupyter Notebook.
-* See Jupyter Notebook with the viewable Data Frames.
+
